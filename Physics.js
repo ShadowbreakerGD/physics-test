@@ -55,7 +55,7 @@ Example.sprites = function() {
                 render: {
                     strokeStyle: '#ffffff',
                     sprite: {
-                        texture: './img/box.png'
+                        texture: '36A3EAF3-4BE3-4466-BCB1-3DFADA3AE354.png'
                     }
                 }
             });
@@ -67,7 +67,7 @@ Example.sprites = function() {
                 friction: 0.01,
                 render: {
                     sprite: {
-                        texture: './img/ball.png'
+                        texture: '36A3EAF3-4BE3-4466-BCB1-3DFADA3AE354.png'
                     }
                 }
             });
